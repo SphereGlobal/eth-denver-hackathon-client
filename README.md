@@ -54,3 +54,6 @@ The AI Intent Layer is an innovative interface designed to bridge the gap betwee
 - **Data Queries**: Enables querying blockchain data, such as account balances or transaction histories, using conversational language.
 
 This layer democratizes access to blockchain technology, making it accessible to a broader audience through the simplicity of natural language.
+
+
+Presentation Deck: https://tome.app/sphereone-raise/eth-denver-buidl-submission-team-sphereone-clta9phi306demo63qllqkrxt
